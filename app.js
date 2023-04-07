@@ -8,7 +8,6 @@ faqItems.forEach(item => {
         displayMsg.classList.toggle('show')
     };
     spanToggle.addEventListener('click' , clickMe)
-    console.log(header)
 })
 
 
