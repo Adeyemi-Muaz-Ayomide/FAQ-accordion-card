@@ -24,6 +24,7 @@ body{
     max-width: 1500px;
     margin: 0 auto;
     display: block;
+    min-height: 80vh;
 }
 main{
     margin-top: 10px;
