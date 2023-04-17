@@ -25,6 +25,7 @@ body{
     margin: 0 auto;
     display: block;
     min-height: 80vh;
+    overflow: hidden;
 }
 main{
     margin-top: 10px;
@@ -35,6 +36,7 @@ main{
     /* margin: 150px 10px; */
     background-color: var(--white);
     border: none;
+    
     border-radius: 16px;
     box-shadow: 0 10px 20px #5f06b7;
     padding: 45px;
@@ -170,7 +172,7 @@ hr {
   
     .container {
       width: 58%;
-      margin: 7% auto 7%;
+      margin: 2.5% auto 7%;
       display: flex;
       flex-wrap: nowrap;
       flex-direction: row;
@@ -184,7 +186,7 @@ hr {
     }
   
     .woman-img {
-      top: 1.5rem;
+      top: 4.5rem;
       width: 25rem;
       transform: translate(-30%);
     }
